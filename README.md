@@ -1,2 +1,2 @@
 # luna
-Learning project for game engine
+A learning project of [kohi](https://github.com/travisvroman/kohi).
